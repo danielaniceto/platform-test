@@ -4,19 +4,14 @@ css5
 html3
 folium
 
-{
-    "infos": [
-        {
-            "Olá, esse projeto foi feito com python3, na versão 3.11.9, banco de dados mysql, Marshmallow, css3 e html5,
-            então para rodar esse projeto, e necessários fazer as instalações do python3, atraves do camando pip install python,
-            e você pode conferir a instalação atraves do comando python --version, para a instalação do Marshmallow,
-            podemos seguir o mesmo conceito, pip install Marshmallow, no vcCode, temos também que instalar as extensões,
-            tanto do python, quanto do html e ainda do css.
+    "Olá, esse projeto foi feito com python3, na versão 3.11.9, banco de dados mysql, Marshmallow, css3 e html5,
+    então para rodar esse projeto, e necessários fazer as instalações do python3, atraves do camando pip install python,
+    e você pode conferir a instalação atraves do comando python --version, para a instalação do Marshmallow,
+    podemos seguir o mesmo conceito, pip install Marshmallow, no vcCode, temos também que instalar as extensões,
+    tanto do python, quanto do html e ainda do css.
             
-            A função desse programa em especifico e de criar uma page de login, que após ter sido validado e o dados de acesso ja estarem em BD,
-            o usuário consigo ver, atraves de rotas e coordenadas de latitude e longitude pre-definidas e armazenadas em banco, um mapa, contendo 
-            uma trajetoria em pontos, de um certo trajeto, simulando a rota de um veículo, colocando nela, os pontos, que podem ser contados como 
-            pontos de paradas seja por qual motivo for, pensando em negório, pontos de entregas de mercadorias, ou algo nesse sentido."
-        }
-    ]
-}
+    A função desse programa em especifico e de criar uma page de login, que após ter sido validado e o dados de acesso ja estarem em BD,
+    o usuário consigo ver, atraves de rotas e coordenadas de latitude e longitude pre-definidas e armazenadas em banco, um mapa, contendo 
+    uma trajetoria em pontos, de um certo trajeto, simulando a rota de um veículo, colocando nela, os pontos, que podem ser contados como 
+    pontos de paradas seja por qual motivo for, pensando em negório, pontos de entregas de mercadorias, ou algo nesse sentido."
+    
