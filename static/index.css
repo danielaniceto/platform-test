@@ -1,0 +1,48 @@
+body {
+    background-color: #f0f8ff; /* Azul claro */
+    font-family: Arial, sans-serif; /* Fonte padrão */
+    margin: 0; /* Remove margens */
+    padding: 20px; /* Espaçamento interno */
+}
+
+.container {
+    max-width: 500px; /* Largura máxima do conteúdo */
+    margin: 0 auto; /* Centralizar na tela */
+}
+
+.form-group {
+    margin-bottom: 50px; /* Espaçamento entre os campos */
+}
+
+label {
+    display: block; /* Exibe os labels em uma nova linha */
+    margin-bottom: 5px; /* Espaçamento inferior do label */
+    font-weight: bold; /* Texto em negrito */
+}
+
+input[type="text"],
+
+input[type="number"] {
+    width: 50%; /* Preenche toda a largura do container pai */
+    padding: 12px; /* Espaçamento interno */
+    border: 1px solid #ccc; /* Borda cinza */
+    border-radius: 5px; /* Cantos arredondados */
+}
+
+button {
+    background-color: #007bff; /* Azul */
+    color: #fff; /* Texto branco */
+    padding: 10px 20px; /* Espaçamento interno */
+    border: none; /* Remove a borda */
+    border-radius: 5px; /* Cantos arredondados */
+    cursor: pointer; /* Cursor ao passar por cima */
+}
+
+button:hover {
+    background-color: #0056b3; /* Azul escuro ao passar por cima */
+}
+
+.imglogo{
+    width: 50;
+    height: 50;
+};
